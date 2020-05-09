@@ -20,6 +20,6 @@ if __name__ == "__main__":
         while True:
             print("-----------------------Start Query------------------------")
             Core.checker()
-            sleep(10)
+            sleep(100)
     except KeyboardInterrupt:
         sys.exit(0)
